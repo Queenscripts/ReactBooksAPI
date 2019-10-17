@@ -1,0 +1,11 @@
+.filter{
+    background: lightgray;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: space-evenly;
+}
+
+.select{
+    width: 30%;
+}

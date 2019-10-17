@@ -1,0 +1,14 @@
+.search{
+    display: flex;
+    justify-content: center;
+    background-color: gray;
+    padding: 2%;
+    align-items: center;
+}
+
+.bar{
+    height: 40%;
+    width: 50%;
+    margin: 0 2%;
+    background: #FFFBAF;
+}
